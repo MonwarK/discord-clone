@@ -1,0 +1,19 @@
+body{    
+    height: 100vh;
+    width: 100%;
+}
+
+.home-page{
+    display: flex;
+    height: 100vh;
+}
+
+.MuiSvgIcon-root{
+    color: rgba(255, 255, 255, 0.5);
+    margin: 0 6px;
+    cursor: pointer;
+}
+
+.MuiSvgIcon-root:hover{
+    color: white;
+}

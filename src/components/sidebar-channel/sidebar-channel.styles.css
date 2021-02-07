@@ -1,0 +1,10 @@
+
+.sidebar-channel{
+    padding: 15px 5px;
+    cursor: pointer;
+}
+
+.sidebar-channel:hover{
+    color: white;
+    background-color: #5d626d;
+}
